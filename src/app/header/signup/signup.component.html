@@ -1,0 +1,57 @@
+   
+<div class="container-fluid">
+  <div class="row">
+        
+    <div class="col-md-12" style="background-image: url('assets/signup.jpg');background-position: center;background-repeat: no-repeat;background-size: cover;height: 600px;" >
+      <div class="breadcrumb-section">
+        <div class="home" ><h5 style="padding: 5px; border-radius: 5px;">{{'header.contactus.home' | translate}}</h5></div>
+        <div class="contact">
+          <h5><a routerLink="home" style="color: rgb(0, 17, 255);">{{'header.contactus.home' | translate}}/</a>
+            {{'header.contactus.contact' | translate}}</h5>
+        </div>
+
+      </div>
+    </div>
+    <div class="col-md-12 img-fluid">
+  </div>
+</div>
+      <!-- <div class="col-md-12"> -->
+        <div class="gg">
+          <h5 class="h5" style="padding: 10px; font-size: 22px;">{{'header.signup.subs' | translate}}</h5> 
+          <p style="font-size: 18px;">{{'header.signup.our' | translate}}</p>
+        </div>
+      <!-- </div> -->
+
+  <!-- <div class="col-md-12">
+      <p class="text" style="text-align:justify; padding: 20px; font-size: 18px;">{{'header.quality.meet' | translate}}</p>
+  </div> -->
+      
+       
+</div> 
+
+<div class="col-md-12" style="float: left; margin-top: 25px;">
+  <div class="col-md-6" style="float: left;">
+      <div class="section">
+        <form class="modal-content myRecForm" (submit)="registerUser()" [formGroup]="myReactiveForm">
+          <div class="container">
+            <h1>{{'header.signup.sign' | translate}}</h1>
+            <p style="font-size: 18px;">{{'header.signup.plea' | translate}}</p>
+            <hr>
+            <label for="psw" style="font-size: 18px;"><b>{{'header.signup.name' | translate}}</b></label>
+            <input style="font-size: 16px;" type="text" placeholder="{{'header.signup.ename' | translate}}" name="name" [(ngModel)]="userModel.name" formControlName='name'>
+            <label for="email" style="font-size: 18px;"><b>Email</b></label>
+            <input type="text" placeholder="{{'header.signup.email' | translate}}" style="font-size: 16px;" name="email" [(ngModel)]="userModel.email" formControlName='email' >
+                          
+            <div class="clearfix">
+              <button type="submit" style="font-size: 22px; background-color: #fdc900;" class="signup">{{'header.signup.sign' | translate}}</button>
+            </div>
+          </div>
+        </form>
+      </div>
+  </div>
+  <div class="col-md-6" style="float: left;">
+      <img src="assets/hotrolled.jpeg" style="height: 419px;
+      padding: 0 0 0 18px;
+      width: 87%;" >
+  </div> 
+</div>

@@ -1,0 +1,39 @@
+#qua {
+  color: black;
+}
+.breadcrumb-section
+{
+    position: absolute;
+  top: 30%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  width:100px;
+}
+/* .section{
+  margin-left:70px
+} */
+.h5 {
+  font-size: 22px;
+}
+.vi {
+  font-size: 18px;
+}
+.hea {
+  font-size: 18px;
+}
+.home{
+  width: 100px;
+  height: 50px;
+  border-radius: 5px;
+  padding: 3px;
+ background-color: #e9ecef;
+
+}
+.contact {
+  background-color: #e9ecef;
+  padding: 3px;
+  border-radius: 5px;
+  margin-top: 5px;
+  font-size: 16px; 
+}
+

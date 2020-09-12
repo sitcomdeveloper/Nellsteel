@@ -1,0 +1,72 @@
+.home{
+    width: 100px;
+    height: 50px;
+    border-radius: 5px;
+    padding: 3px;
+   background-color: #fdc900;
+
+}
+.contact {
+    background-color: #fdc900;
+    padding: 3px;
+    border-radius: 5px;
+    margin-top: 5px;
+    font-size: 16px; 
+}
+h3{
+    color: #fff;
+}
+h4{
+    color: #fdc900;
+}
+a{
+    color: #fff;
+    font-size: 24px;
+}
+.breadcrumb-section
+{
+    display: inline-block;
+    position: relative;
+    top: 50%;
+    left: 15%;
+  transform: translate(-50%, -50%);
+}
+.breadcrumb-section
+{
+    position: relative;
+  top: 30%;
+  left: 10%;
+  transform: translate(-50%, -50%);
+  width:100px;
+}
+.login-block{
+    background: #fdc900;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #fdc900, #fdc900);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #fdc900, #fdc900); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+float:left;
+width:100%;
+padding : 50px 0;
+}
+.banner-sec{background:url(https://static.pexels.com/photos/33972/pexels-photo.jpg)  no-repeat left bottom; background-size:cover; min-height:500px; border-radius: 0 10px 10px 0; padding:0;}
+.container{background:#fff; border-radius: 10px; box-shadow:15px 20px 0px rgba(0,0,0,0.1);}
+.carousel-inner{border-radius:0 10px 10px 0;}
+.carousel-caption{text-align:left; left:5%;}
+.login-sec{padding: 50px 30px; position:relative;}
+.login-sec .copy-text{position:absolute; width:80%; bottom:20px; font-size:13px; text-align:center;}
+.login-sec .copy-text i{color:#fdc900;}
+.login-sec .copy-text a{color:#fdc900;}
+.login-sec h2{margin-bottom:30px; font-weight:800; font-size:30px; color: #fdc900;}
+.login-sec h2:after{content:" "; width:100px; height:5px; background:#fdc900; display:block; margin-top:20px; border-radius:3px; margin-left:auto;margin-right:auto}
+.btn-login{background: #fdc900; color:#fff; font-weight:600;}
+.banner-text{width:70%; position:absolute; bottom:40px; padding-left:20px;}
+.banner-text h2{color:#fff; font-weight:600;}
+.banner-text h2:after{content:" "; width:100px; height:5px; background:#FFF; display:block; margin-top:20px; border-radius:3px;}
+.banner-text p{color:#fff;}
+
+
+.text-uppercase {
+    font-size: 16px;
+}
+.form-control{
+    font-size: 12px;
+}

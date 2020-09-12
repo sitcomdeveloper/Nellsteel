@@ -1,0 +1,108 @@
+
+
+  <div class="boxed_wrapper">
+  
+  <!--Start Preloader -->
+  <div class="preloader"></div>
+  <!--End Preloader --> 
+  
+  <!--Start top bar area-->
+  <!-- <section class="top-bar-area">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-8 col-md-10 col-sm-12 col-xs-12">
+                  <div class="top-left clearfix">
+                      <div class="our-office">
+                          <select class="selectmenu">
+                              <option selected="selected">Newyork Office</option>
+                              <option>Austria Office</option>
+                              <option>Canada Office</option>
+                              <option>France Office</option>
+                              <option>Mexico Office</option>
+                          </select>
+                      </div>
+                      <ul class="top-contact-info">
+                          <li><i class="fa fa-phone" aria-hidden="true" style="font-size: 24px; color: #fdc900; margin-right: 8px;"></i>+32 456 789012</li>    
+                          <li><i class='fas fa-location-arrow' style='font-size:24px; color: #fdc900; margin-right: 8px;'></i>121 Park Drive, Varick Str, Newyork, USA</li>    
+                      </ul>   
+                  </div>
+              </div>
+              <div class="col-lg-4 col-md-2 col-sm-12 col-xs-12" style="float:left">
+                  <div class="top-right">
+                      <ul class="social-links">
+                          <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                          <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                          <li><a href="#"><i class="fa fa-google-plus"></i></a></li>
+                          <li><a href="#"><i class="fa fa-pinterest-p"></i></a></li>
+                          <li><a href="#"><i class="fa fa-youtube"></i></a></li>
+                      </ul>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section> -->
+  <!--End top bar area-->
+  
+  <!--Start header area--> 
+  <section class="header-area">
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-5 col-md-3">
+                  <div class="logo" style="margin-left: -40px;">
+                      <a href="index-2.php" >
+                          <img src="assets/logo3.png" class="headerlgo" alt="Awesome Logo" style="margin-top: -29px;">
+                      </a>
+                  </div>
+              </div>
+              <div class="col-lg-7 col-md-9">
+                  <div class="header-right">
+                      <ul style="margin-left: 100px;">
+                          <li>
+                              <div class="icon-holder">
+                                <i class='fas fa-lightbulb' style='font-size:24px; color: #fa6909;'></i>
+                            </div>
+                              <div class="text-holder">
+                                  <h4>Certified Company</h4>
+                                  <span>ISO 9001:2005</span>    
+                              </div>
+                          </li>
+                          <li>
+                              <div class="icon-holder">
+                                <i class="fa fa-trophy" style="font-size:24px; color: #fa6909;"></i>
+                            </div>
+                              <div class="text-holder">
+                                  <h4>The Best Industrial</h4>
+                                  <span>Solution Provider</span>    
+                              </div>
+                          </li>     
+                      </ul>
+                      <!-- <div class="download-button">
+                          <a href="#"><i class="fa fa-download"></i>Downloads</a>    
+                      </div> -->
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>  
+  <div class="navb col-md-12 navbar navbar-expand-md bg-light navbar-dark" style="width: 100%; background-color: red;">
+    <nav class="navbar navbar-expand-md bg-light navbar-dark">
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="collapsibleNavbar">
+           <ul class="navbar-nav">
+   <li class="nav-item" *ngFor="let header of 'header.header' | translate" style="margin-left: 45px; font-size: 18px;" >
+    <a class="nav-link" routerLink="/{{header.link}}"><strong>{{header.text}}</strong></a>
+    </li>
+  <li>
+  <select  (click)="selectLang($event.target.value)" class="language" style="margin-left: 55px; padding: 5px; font-weight: bold; font-size: 16px;">
+  <option *ngFor="let lang of SupportLanguages">{{ lang }}</option>
+  </select>
+  </li>
+
+          </ul>
+        </div>  
+      </nav>
+      <br> 
+</div>  
+  </div>

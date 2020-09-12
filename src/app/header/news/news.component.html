@@ -1,0 +1,44 @@
+<!-- <div *ngFor="let datas of fetchNews">
+                      
+    <h2  style="padding: 20px;">{{datas.title}}</h2>
+    <p><img src={{datas.urlToImage}} height="500" width="100%"></p>
+    <p style="padding: 20px; font-size: 18px;">{{datas.description}}</p>
+    <p style="padding: 20px; font-size: 18px;">{{datas.content}}</p>
+    <p><a href="{{datas.url}}" style="font-size: 20px; padding: 20px;">Click here for more details</a></p>
+</div> -->
+
+
+<div class="container-fluid">
+    <div class="row">
+          
+    <div class="col-md-12" style="background-image: url('assets/news.jpg');background-position: center;background-repeat: no-repeat;background-size: cover;height: 600px;" >
+      <div class="breadcrumb-section">
+        <div class="home"><h5 style="padding: 5px; border-radius: 5px;">{{'header.contactus.home' | translate}}</h5></div>
+        <div class="contact">
+          <h5><a routerLink="home" style="color: rgb(0, 17, 255);">{{'header.contactus.home' | translate}}/</a>
+            {{'header.contactus.contact' | translate}}</h5>
+        </div>
+  
+      </div>
+    </div>
+  </div>
+      <div class="row" style="background: linear-gradient(90deg, #e3ffe7 0%, #d9e7ff 100%);">
+          <div class="col-md-12">
+              <h3 style="text-align: center;">{{'header.news.newfrance' | translate}}</h3>
+              <p style="font-size: 18px;"> 
+               
+                 {{'header.news.french' | translate}}
+              </p>
+              <p style="font-size: 18px;">
+               
+                {{'header.news.gallianova' | translate}}
+              </p>
+              <img src="assets/map.jpg" alt="Map" style="width: 100%;">
+          </div>
+        <div class="search-hero">
+          <!-- <input class="form-control" type="text" name="search" [(ngModel)]="searchText" autocomplete="off" placeholder="&#61442;  Start searching for a hero by id or name or country"> -->
+        </div>
+       
+      </div>
+    </div>
+    

@@ -1,0 +1,291 @@
+{
+    "header" : {
+        "header" :[
+            {
+                "text" : "ACCUEIL",
+                "link" : "/"
+            },
+            {
+                "text" : "QUI SOMMES NOUS?", 
+                "link" : "nellsteel"
+            },
+            {
+                "text" : "NOS PRODUITS",
+                "link" : "products"
+            },
+            {
+                "text" : "S'INSCRIRE",
+                "link" : "signup"
+            },
+            
+            {
+                "text" : "NOUVELLES",
+                "link" : "news"
+            },
+
+            {
+                "text" : "NOUS CONTACTER",
+                "link" : "contactus"
+            }
+
+        ],
+
+        "home" : {
+            "h1" : "NOTRE ACIER NOTRE AVENIR",
+            "a" : "VOIR PLUS",
+             "h4" : "LAMINÉ À CHAUD",
+             "discover" : "DÉCOUVREZ NELLSTEEL",
+             "pro": " DES PRODUITS",
+             "para" : "Acier nervuré laminé à chaud et soudable avec un rendement caractéristique.",
+             "miga" : "LA MIGA SOUTIENT LA FABRICATION",
+             "credit" : "L'Agence multilatérale de garantie des investissements (MIGA) - l'assurance contre les risques politiques et le crédit",
+             "group" : "bras d’amélioration du Groupe de la Banque mondiale - a annoncé aujourd’hui son soutien à la",
+             "steel" : "construction et exploitation d'une nouvelle usine de barres d'armature en acier en Angola.",
+             "to" : " - est une entreprise dédiée à",
+             "production": "production d'acier",
+             "the" : "Un projet ambitieux qui implique la",
+             "continent" : "construction des aciéries les plus modernes du continent africain.",
+             "prod" : "DES PRODUITS",
+             "Note" : "Bienvenue dans notre",
+             "Industry" : "Industrie",
+             "Intro" : "Nous avons une installation pour produire des travaux avancés diverses applications industrielles basées sur une technologie spécialement développée. Nous sommes également prêts pour le développement en fonction des besoins changeants des utilisateurs. Projets d'installation liés aux infrastructures. Réparation générale et industrielle et machinerie.",
+            "Agri" : "Transformation agricole",
+            "Techno" : "Activités technico-économiques",
+            "readmore" : "Lire la suite",
+            "AgriProcess": "La transformation agricole est la transformation des matières premières, par ...",
+            "MechEngi" : "Ingénierie mécanique",
+            "ManuMain" : "Fabrication et entretien",
+            "four basi" : "Il existe quatre processus de production de base pour produire la forme souhaitée d'un produit ... ",
+            "chemres" : "Recherche chimique",
+            "pharmsec" : "Secteurs pharmaceutiques",
+            "chemical" : "Nous proposons des services de R&D chimique aux secteurs de la chimie fine, de la pharmacie et de la biotechnologie ...",
+            "ptrolgas" : "Pétrole et gaz",
+            "hydrcrbns" : "Production d'hydrocarbures",
+            "materilengi": "Material Engineering",
+            "dvlpmmater" : "Développement de matériaux",
+            "pwerenergy" : "Puissance et énergie",
+                "snlighttoelctricty" : "De la lumière du soleil à l'électricité",
+                "latestprojects" : "dernier projets",
+                "vuall" : "Voir tout",
+                "agricltre" : "agriculture",
+                "chmicl" : "chimique",
+                "materials" : "Matériaux",
+                "mechanicl" : "Mécanique",
+                "viewproject" : "Voir le projet",
+                "preconstruction" : "Préconstruction",
+                "material" : "Matériel",
+                "abtindstry" : "À propos de notre industrie",
+                "infoindstry" : "Lorsque vous donnez à notre industrie, sachez que votre don fait une différence, que vous souteniez nos programmes signature ou notre liste soigneusement organisée de cadeaux que ce professionnel. ",
+                "hist" : "L'histoire en mots",
+                "numprodctd" : "Nous travaillons en partenariat avec plus de 320 projets seds incroyables dans le monde entier et avons accordé plus de millions de dollars en subventions en espèces et en produits à d'autres groupes depuis 2015, notre propre suite dynamique. ", 
+                "anony" : "Là, quiconque aime ou poursuit ou désire en ressentir la douleur est parce que sème toutes les circonstances occasionnellement.",
+                "quote" : "Demande de citation",
+                "slctserv" : "Sélectionnez un service", 
+                "getquote" : "Obtenez un devis",
+                "wordscstmrs" : "Mots des clients",
+                "mrereviews" : "Plus de critiques ", 
+                "oklareview" : "L'industrie nous a aidés à mieux maîtriser tout ce qui concerne notre entreprise - à réellement prendre des décisions et à avancer pour développer les enseignements commerciaux du grand explorateur de la vérité. ",
+                "oc" : "La Ville d'Oklahoma",
+                "california" : "Quiconque aime ou poursuit désire obtenir la douleur par lui-même, parce que c'est de la douleur, mais parce que parfois nos circonstances se produisent dans lesquelles le travail et la douleur ne peuvent procurer que des avantages. ",
+               
+                "cc" : "Californie",
+                "jh" : "Jenifer Hearly",
+                "ps" : "Parker Smith",
+                "ltstnews" : "Dernières nouvelles",
+                "matcarbo" : "Matériaux pour l'économie des glucides.",
+                "datmar" : "21 mars 2017",
+                "twecomments" : "20 commentaires",
+                "comm1" : "Comment toute cette idée erronée de dénoncer le plaisir et de louer la douleur a été exposée ... ",
+               
+                "techcomny" : "Technologie, Entreprise",
+                "factry" : " Prix ​​de la meilleure usine de l'année 2016.",
+               
+                "date2" : "16 février 2017",
+                "frteencmnts" : "14 commentaires",
+                "comment2" : "Le grand explorateur de la vérité, le maître humain ne rejette pas, n'aime pas ou évite le plaisir lui-même ...",
+                "manufatring" : "Fabrication",
+                "gudenginrs" : "Comment trouver de bons ingénieurs?",
+                "date3" : "27 février 2017",
+                "tweforcmnts" : "24 commentaires",
+                "comment3" : "Celui qui aime ou poursuit ou désire en ressentir la douleur, c'est de la douleur, mais parce que parfois ...",
+                "envvirnmnt" : "Environnement",
+                "wrkenvm" : "Nous avons un excellent environnement de travail.",
+                
+                "dte4" : "08 février 2017",
+                "tweninecomnts" : "29 commentaires",
+                "comment4" : "Maître-constructeur du bonheur humain on rejette, on n'aime pas, on évite le plaisir lui-même poursuivre ... "
+               
+
+        },
+
+        "footer" : {
+            "content" : "NOUVELLES RÉCENTES",
+            "brm" : "La société NELL STEEL et Oumar Guèye ont ordonné de verser 1,6 milliard au BRM.",
+            "land" : "La société NELL STEEL condamne fortement le BRM et prend possession de son terrain.",
+            "us" : "NOUS CONTACTER",
+           
+            "km" : "Km, 45 Route Mbour-Dakar, Diamniadio, Sénégal",
+            "cont" : "Contenu du pied de page",
+            "row" : "Ici, vous pouvez utiliser des lignes et des colonnes",
+            "too" : "pour organiser votre contenu de pied de page." ,
+            "phone" : "Téléphone:",
+            "add" : "Adresse:",
+                "address" : "Km 45, Diamniadio Route de Mbour, BP 29 659, Dakar - Sénégal",
+                "wrkhrs" : "Heures de travail:",
+                "monsat" : "Lun - Sam: 9h à 20h",
+                "abtus" : "à propos de nous",
+                "footrintro" : "Plus de 24 ans d'expérience et de connaissances des normes internationales, change technologiquement nos systèmes industriels, nous nous engageons à fournir les meilleures solutions à nos précieux clients, il existe de nombreuses variantes de solutions. ",
+               
+                "usefullnks" : "Liens utiles",
+                "rcntpst" : "Post récent",
+                "fctawrd" : "Prix ​​de la meilleure usine de l'année",
+                "mar14" : "14 mars 2017",
+                "grtwrking" : "Notre excellent environnement de travail",
+                "feb27" : "27 février 2017",
+                "gudenginers" : "Comment trouver de bons ingénieurs?",
+                "jan05" : "05 janvier 2017",
+                "newletter" : "Bulletin",
+                
+                "subscrnewsletter" : "Abonnez-vous à notre newsletter, nous ne envoyons pas de courrier au spam et votre identifiant de messagerie est très confidentiel. ",
+               
+                "subscribeus" : "Abonnez-nous",
+                "anyquery" : "Toutes les requêtes:",
+                "mailid" : "Nellsteel@Industryteam.com",
+                "footnte" : "Copyrights © 2020 Tous droits réservés. Alimenté par",
+                "webname" : "NELLSTEEL.",
+                "agriproc" : "Transformation agricole",
+                "mechengi" : "Ingénierie mécanique",
+                
+                "chemresrch" : "Chemical Research",
+                "petrolgas" : "Pétrole et gaz",
+                "materengi" : " Ingénierie des matériaux",
+               
+                "pwerenrgy" : "Puissance et énergie"
+        },
+        "products" : {
+            "li" : "Accueil",
+            "contact" : "Nous contacter",
+            "of" : "LE PREMIER PRODUCTEUR D'ACIER DU SÉNÉGAL" ,
+            "TERMS": "NOS PRODUITS" ,
+            "Mode" : "Mode de paiements:",
+            "intro" : "Nous disposons de 5 gammes de produit, dont 4 sont usinés localement et un qui est importé et commercialisé tel quel en l'occurrence le Fe500.", 
+            "pro1" : "Gamme Fe400 dont les produits sont constitués des Diam 6 au 12 ",
+            "pro2" : " Gamme Fe500 dont les produits sont constitués des Diam 6 au 32",
+            "pro3" : "Gamme FRC avec un produit le FRC ",
+            "pro4" : "Gammes PT dont les produits sont constitués de pointes ",
+            "pro5" : "Pour finir la Gamme FNC (façonnage) avec les produits, sur catalogue (les préformes que nous le faisons actuellement) et sur plan (présenté par le client)",
+            "Payment": "Paiement Comptant Espèces ou Chèque" , 
+            "Bank": "Paiement par Virement Bancaire " ,
+            "Draft" : "Paiement par Traite*" ,
+            "La": "La durée et les montants de la traite, dépendront des garanties proposées par le client. Les prix  peuvent être dégressifs en fonction des volumes commandés. " ,
+            "Nell": "Nell Steel en trois points: ",
+            "Producer": "Producteur & Importateur de Fer à Béton ( Sénégal)",
+            "A": "Une exigence qualité au service du Génie Civil",
+            "Supplier": "Fournisseur Agréé et Reconnu Par L’Etat Du Sénégal",
+            "Created": "Créé en Avril 2004, NELL STEEL S.A au capital de 500.000.000 F.CFA" ,
+            "Monthly": "Capacité mensuelle en fer à béton importé et local, d’environ 6.000 Tonnes en plusieurs diamètres",
+            "Around": "60 Tonnes environs de production mensuelle pour le fil recuit. ",
+            "meet" : "Pour répondre aux attentes des clients, NELLSTEEL a compris la Qualité comme l'ensemble des activités de contrôle et de gestion des processus.",
+            "has" : "NELLSTELL Sénégal dispose d'un service qualité.",
+            "para" : "Santé et sécurité au travail.",
+            "syst" : "Système de gestion de l'environnement"
+        },
+        "quality" : {
+           "the" : "LE PREMIER PRODUCTEUR D'ACIER DU SÉNÉGAL",
+           "to" : "Pour répondre aux attentes des clients, NELLSTEEL a compris la Qualité comme l'ensemble des activités de contrôle et de gestion des processus.",
+           "quality" : "CONTRÔLE DE QUALITÉ",
+           "nellsteel" : "NELLSTELL Sénégal dispose d'un service qualité.",
+           "health": "Santé et sécurité au travail.",
+           "Environmental": "Système de gestion de l'environnement",
+           "policy": "POLITIQUE",
+           "corporate" : "La mission de l'entreprise NELLSTEEL est de produire et de commercialiser durablement des barres d'armature en acier pour le renforcement du béton.",
+           "meet" : "Pour répondre aux attentes des clients, NELLSTEEL entend la Qualité comme l'ensemble des activités de contrôle et de gestion des processus qui visent à répondre à ces attentes de qualité et de service. Pour cette raison, nos efforts visent à améliorer les contrôles des processus et des produits, à donner plus de valeur ajoutée au client et à systématiser ces processus et contrôles à maintenir dans le temps.",
+           "factory" : "USINE DE NELLSTEEL",
+           "home" : "Accueil",
+           "contact" : "Nous contacter"     
+        },
+        "social" : {
+        "home" : "Accueil",
+        "contact" : "Nous contacter",
+        "project" : "LE PROJET NELLSTEEL PARTICIPERA À LA CRÉATION D'ÉQUIPEMENTS SOCIAUX",
+        "employment" : "EMPLOI",
+        "a" : "Création d'un centre de formation professionnelle."
+        },
+        "contactus" : {
+            "factory" : "USINE DE NELLSTEEL",
+            "home": "Accueil",
+            "contact" : "Nous contacter",
+            "human" : "Ressources humaines",
+            "use" : "UTILISEZ LE FORMULAIRE CI-DESSOUS POUR NOUS CONTACTER",
+            "inq": "Enquête",
+            "full" : "Nom complet",
+            "phone" : "Numéro de téléphone",
+            "what" : "De quoi avez-vous besoin?",
+            "dev" : "Développement",
+            "inv" : "Investissement",
+            "ins" : "Assurance",
+            "sub" : "Soumettre"
+        },
+        "steel" : {
+            "home": "Accueil",
+            "contact" : "Nous contacter",
+            "the" : " LE PREMIER PRODUCTEUR D'ACIER DU SÉNÉGAL",
+            "our": "NOTRE MISSION :",
+            "producing": "Producing steel solutions for construction companies",
+            "produce": "Produire et commercialiser des aciers pour la distribution",
+            "support": "Support construction companies and distributors of construction equipment and materials",
+            "ours": "NOS ATOUTS  :",
+            "geographic": "Position Géographique: usine de production située dans la zone de Diamniadio avec une superficie de 3,5 ha",
+            "production": "Capacité de production et de stockage",
+            "product": "Diversité des produits (Fe500, Fe400, Fil recuit, Façonnage)",
+            "Commercial": "Couverture Commerciale: Nous livrons partout au Sénégal et dans la sous région",
+            "expertise": "Expertise: Main d’œuvre expérimentée ",
+            "one": "Une des  grandes forces de NELL STEEL S.A, est le respect des normes du secteur imposé par le Gouvernement du Sénégal et ses exigences à l’international. ",
+            "video" : " VIDÉO NELLSTEEL",
+            "human" : "RESSOURCES HUMAINES",
+            "OUR": "NOS DOMAINES D’INTERVENTIONS  :",
+            "Construction": " (Construction and Real Estate Promotion)",
+            "Road": " (Route-Ponts et chaussée)",
+            "Classic": "Distribution classique",
+            "Wholesalers": "(Grossistes – Détaillants)",
+            "pro" : "NOS PRODUITS :", 
+            "importe": "Importé Fe 500 :",
+            "Local": "Local Normalisé Fe 400 :",
+            "Fil": "Fil recuit" ,
+            "Fa": "Façonnage " ,
+            "NOS": "NOS PARTENAIRES PROFESSIONNELS ET STRATÉGIQUES : " ,
+            "Etat": "State of Senegal" ,
+            "Nos": "Nos fournisseurs Internationaux" ,
+            "Senegal": "Laboratoire d’essais et de contrôle des matériaux du Sénégal" ,
+            "Ou": "Notre réseau de distribution" ,
+            "de": "Companies of" ,
+            "design": "Bureaux d’études "
+
+        },
+        "forgot" : {
+            "for" : "Mot de passe oubLie"
+        },
+        "signup": {
+            "subs" : "INSCRIVEZ-VOUS À LA NEWSLETTER",
+            "our" : "Pour vous abonner à notre newsletter, remplissez le formulaire ci-dessous",
+            "sign": "S'inscrire",
+            "user": "Nom d'utilisateur",
+            "pass": "Mot de passe",
+            "epass" : "Entrer le mot de passe",
+            "email" : "Entrez votre e-mail",
+            "name" : "Nom",
+            "ename" : "Entrez le nom",
+            "plea" : "Veuillez remplir ce formulaire pour vous abonner."
+        },
+        "news": {
+            "newfrance" : "Nouvelle-France",
+            "french" : "Nouvelle-France, Nouvelle-France française (1534–1763), les colonies françaises de l'Amérique du Nord continentale, englobant initialement les rives du fleuve Saint-Laurent, Terre-Neuve et l'Acadie (Nouvelle-Écosse), mais s'étendant progressivement pour inclure une grande partie de la Grande Région des lacs et parties de l'ouest trans-appalachien. ",
+           
+            "gallianova" : "Le nom Gallia Nova (Nouvelle-France) a été enregistré pour la première fois en 1529 sur une carte préparée par le frère de Giovanni da Verrazano, qui, au service de la France, avait exploré les côtes de l'Amérique du Nord en 1524 de ce qui est maintenant le nord des Carolines à la Nouvelle-Écosse. Puis en 1534 le navigateur et explorateur français Jacques Cartier entre dans le golfe du Saint-Laurent et prend possession de la Nouvelle-France pour le roi François Ier.Au cours des années suivantes, Cartier remonta le Saint-Laurent jusqu'aux rapides de Lachine, là où Montréal se lève maintenant et a tenté, avec Jean-François de La Rocque, sieur de (seigneur de) Roberval, de fonder un colonie près de ce qui est maintenant le Québec. La colonie a échoué, mais de ces explorations, leLe commerce des fourrures français avec les Amérindiens (Premières Nations) du golfe et des régions fluviales a commencé."
+        }
+        
+     }
+    }
+    
+
+    
